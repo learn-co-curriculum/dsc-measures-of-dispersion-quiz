@@ -10,8 +10,9 @@ You will be able to:
 * Understand and interpret Interquartile distances with box plots
 
 ???
+# Measures of Dispersion
 
-Summary statistics for two samples of data are
+?: Summary statistics for two samples of data are
 
 Sample 1:    
 mean = 19
@@ -20,12 +21,10 @@ variance = 10
 Sample 2:    
 mean = 10
 variance = 19
+
 Which sample has the larger spread of observations?
 
-?: Which sample has the larger spread of observations?
-
-() Sample 1
-
+( ) Sample 1
 (X) Sample 2
 
 ?: Consider the following ordered set of data:
@@ -34,15 +33,12 @@ Which sample has the larger spread of observations?
 
 What is the InterQuartile Range (IQR) for this dataset?
 
-() 2
-
+( ) 2
 (X) 3
+( ) 3.5
+( ) 4.25
 
-() 3.5
-
-() 4.25
-
-Imagine that the number of marriages registered over a 10 year period were as follows:
+?: Imagine that the number of marriages registered over a 10 year period were as follows:
 
 Table 1. Number of registered marriages
 
@@ -59,22 +55,16 @@ Table 1. Number of registered marriages
 |   9  |        37,828       |
 |  10  |        35,716       |
 
-?: What is the median number of marriages?
+What is the median number of marriages?
 
-() 41,886
-
-() 38,997
-
-() 39,594
-
+( ) 41,886
+( ) 38,997
+( ) 39,594
 (X) 40,321
 
 ?: Select the upper and lower quartile values from the list below:
 
 [X] 38.814
-
-[] 36.227
-
+[ ] 36.227
 [X] 40.812
-
-[] 41.812
+[ ] 41.812
