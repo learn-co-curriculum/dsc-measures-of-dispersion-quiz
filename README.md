@@ -28,7 +28,7 @@ Which sample has the larger spread of observations?
 ( ) Sample 1
 (X) Sample 2
 
-?: Consider the following ordered set of data:
+?: Consider the following unordered set of data:
 
 `4 4 4 9 5 0 5 1 5 3 5 7 5 8 6 2 6 6 6 6 6 8 7 1 7 5 7 7 8 0 8 5`
 
