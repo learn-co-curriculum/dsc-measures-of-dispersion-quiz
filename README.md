@@ -65,9 +65,9 @@ What is the median number of marriages?
 
 ?: Select the upper and lower quartile values from the list below:
 
-[X] 38.814
-[ ] 36.227
-[X] 40.812
-[ ] 41.812
+[X] 38,814
+[ ] 36,227
+[X] 40,812
+[ ] 41,812
 
 ???
