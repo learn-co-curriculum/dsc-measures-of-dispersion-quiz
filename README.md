@@ -63,11 +63,4 @@ What is the median number of marriages?
 ( ) 39,594
 (X) 40,321
 
-?: Select the upper and lower quartile values from the list below:
-
-[X] 38.814
-[ ] 36.227
-[X] 40.812
-[ ] 41.812
-
 ???
