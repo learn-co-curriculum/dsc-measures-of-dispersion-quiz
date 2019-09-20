@@ -1,14 +1,5 @@
 # Measures of Dispersion - Quiz
 
-## Objectives
-
-You will be able to:
-
-* Describe the significance of calculating measures of dispersion for continuous data
-* Understand the formula and intuition behind mean absolute deviation, standard deviation and variance
-* Understand the formula and intuition behind quantiles/quartiles and percentiles
-* Understand and interpret Interquartile distances with box plots
-
 ???
 
 # Measures of Dispersion
